@@ -16,6 +16,7 @@ types is <strong>a tool cli based</strong>, that you can install any packages wi
 </ul>
 
 <h2>Installation</h2>
+
 ```shell
 npm install --global types-cli
 ```
