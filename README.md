@@ -18,14 +18,14 @@ types-installer is <strong>a tool cli based</strong>, that you can install any p
 <h2>Installation</h2>
 
 ```shell
-npm install --global types-cli
+npm install --global types-installer
 ```
 
 <h2>Usage</h2>
 <p>After downloading the package from npm, you can use it from the command line</p>
 
 ```shell
-> types-cli install jsonbyte express mongoose 
+> types-installer install jsonbyte express mongoose 
 >
 > [ ✅ ][ jsonbyte ] - package installed (no-types)
 > [ ✅ ][ express ] - package installed (external-types) 
