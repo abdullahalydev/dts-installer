@@ -1,11 +1,11 @@
 <h1 align="center">
-    types-installer
+    dts-installer
 </h1>
 <p align="center">Install packages with their types easily and simply</p>
 
 <h2>Description</h2>
 <p>
-types-installer is <strong>a tool cli based</strong>, that you can install any packages with his types
+dts-installer is <strong>a tool cli based</strong>, that you can install any packages with his types
 </p>
 
 <h2>Features</h2>
@@ -18,14 +18,14 @@ types-installer is <strong>a tool cli based</strong>, that you can install any p
 <h2>Installation</h2>
 
 ```shell
-npm install --global types-installer
+npm install --global dts-installer
 ```
 
 <h2>Usage</h2>
 <p>After downloading the package from npm, you can use it from the command line</p>
 
 ```shell
-> types-installer install jsonbyte express mongoose 
+> dts-installer install jsonbyte express mongoose 
 >
 > [ ✅ ][ jsonbyte ] - package installed (no-types)
 > [ ✅ ][ express ] - package installed (external-types) 
