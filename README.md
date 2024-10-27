@@ -5,7 +5,7 @@
 
 <h2>Description</h2>
 <p>
-types is <strong>a tool cli based</strong>, that you can install any packages with his types
+types-installer is <strong>a tool cli based</strong>, that you can install any packages with his types
 </p>
 
 <h2>Features</h2>
