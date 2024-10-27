@@ -1,5 +1,5 @@
 <h1 align="center">
-    types-cli
+    types-installer
 </h1>
 <p align="center">Install packages with their types easily and simply</p>
 
