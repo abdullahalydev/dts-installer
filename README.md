@@ -1,7 +1,7 @@
 <h1 align="center">
     types-cli
 </h1>
-<p align="center">install packages with his types easily and simply</p>
+<p align="center">Install packages with their types easily and simply</p>
 
 <h2>Description</h2>
 <p>
@@ -21,7 +21,7 @@ npm install --global types-cli
 ```
 
 <h2>Usage</h2>
-<p>after downloading the package from npm you can use it by command line</p>
+<p>After downloading the package from npm, you can use it from the command line</p>
 
 ```shell
 > types-cli install jsonbyte express mongoose 
